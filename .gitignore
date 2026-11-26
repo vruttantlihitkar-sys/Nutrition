@@ -1,0 +1,35 @@
+# Virtual environments
+.venv/
+.venv310/
+nutriwise_env/
+nutriwise_env_old_20260327/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+backend.err.log
+backend.out.log
+backend.server.log
+
+# Environment files
+.env
+
+# Node modules (if any)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
